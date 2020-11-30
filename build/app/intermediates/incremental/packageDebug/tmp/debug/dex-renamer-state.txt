@@ -1,0 +1,4 @@
+#Tue Dec 01 02:12:56 PKT 2020
+base.0=D\:\\Data\\Course\\Flutter\\03 Flutter Development Bootcamp with Dart\\14. Boss Level Challenge 3 - Bitcoin Ticker\\New folder\\bitcoin-ticker\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
